@@ -153,7 +153,8 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
- ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+![TNYT](https://user-images.githubusercontent.com/103066775/170345725-e99cffb1-e38e-4d53-9b3a-d4c28dcd3b8b.png)
+
     
 ## 4. LENGUAJE HTML
 
@@ -166,61 +167,49 @@ Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24)
     
-        a) Home Tool Markup Language
-        b) Hyperlinks and Text Markup Language
         c) Hyper Text Markup Language
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
-        a) heading
-        b) hed
-        c) h6
         d) h1
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
-        a) lb
         b) br
-        c) break
+    
 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
-        a) <background>yellow</background>
-        b) <body bg="yellow">
+      
         c) <body style="background-color:yellow;">
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
-    
-        a) b
+   
         b) strong
-        c) i
-        d) important
+       
     
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
     
-        a) italic
+ 
         b) em
-        c) i
+
 
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
 
-        a) <a>https://adip.cdmx.gob.mx/</a>
-        b) <a name="https://adip.cdmx.gob.mx">ADIP</a>
+ 
         c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
-        d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
+
   
   
 8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
   
-        a) <a href="url" target="new">
+   
         b) <a href="url" target="_blank">
-        c) <a href="url" new>
+
   
 9. ¿Cuáles de estos elementos son todos elementos de table? (valor 0.24)
   
-          a) thead body  tr
-          b) table  tr  tt
-          c) table  head  tfoot
+  
           d) table  tr  td
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
@@ -231,17 +220,15 @@ Preguntas:
   
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
   
-          a) list
+
           b) ol
-          c) ul
-          d) dl
+      
   
 12. ¿Cómo se puede hacer una lista con viñetas? (valor 0.24)
   
-          a) ol
+
           b) ul
-          c) list
-          d) dl
+ 
   
 13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
   
@@ -266,16 +253,13 @@ Preguntas:
   
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
   
-          a) input type="textbox"
-          b) input type="textarea"
           c) textarea
   
 17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
   
-          a) <img src="image.gif" alt="Mi imagen">
+  
           b) <img href="image.gif" alt="Mi imagen">
-          c) <img alt="Mi imagen">image.gif</img>
-          d) <image src="image.gif" alt="Mi imagen">
+ 
   
 18. ¿Cuál es el HTML correcto para insertar una imagen de fondo? (valor 0.24)
   
