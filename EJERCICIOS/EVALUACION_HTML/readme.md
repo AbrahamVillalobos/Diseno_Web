@@ -215,8 +215,7 @@ Preguntas:
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
           a) Verdadero
-          b) Falso
-    
+        
   
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
   
@@ -232,16 +231,10 @@ Preguntas:
   
 13. ¿Cuál es el HTML correcto para hacer una casilla de verificación (checkbox )? (valor 0.24)
   
-          a) input type="check"
-          b) check
-          c) checkbox
           d) <input type="checkbox">  
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
   
-          a) textfield
-          b) textinput type="text"
-          c) input type="textfield"
           d) input type="text"
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
