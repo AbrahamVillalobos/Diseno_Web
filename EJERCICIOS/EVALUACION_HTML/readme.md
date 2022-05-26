@@ -352,8 +352,8 @@ secciones que se muestran en la imagen de arriba.
                  Elije una opción
              </P>
              <form action=""> 
-                <label for=""> <input type="radio" name="opcion">Opción 1 <br> </label>
-                  <input type="radio" id="football" name="opcion" value="football"/>Opción 2 <br>
+                <label for="opcion 1"> <input type="radio" name="opcion">Opción 1 <br> </label>
+                 <label for="opcion 2" <input type="radio" id="football" name="opcion" value="football"/>Opción 2 <br> </label>
                   <input type="radio" id="reading" name="opcion" value="reading"/>Opción 3 <br>
                   <input type="submit" value="Enviar">
              </form>
