@@ -240,7 +240,7 @@ Preguntas:
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
   
 
-          b) input type="list"
+        d) select
         
   
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
