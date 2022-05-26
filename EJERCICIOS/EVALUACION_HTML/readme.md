@@ -314,56 +314,56 @@ actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
 
 
-      <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>evaluacionhtml</title>
-</head>
-<body>
-<header>
-<h1>ENCABEZADO NIVEL 1</h1>
-    <nav>
-        <ul>
-            <li><a href=""> ENLACE 1</a></li>
-            <li><a href=""> ENLACE 2</a></li>
-            <li><a href="">ENLACE 3</a></li>
-            <li><a href="">ENLACE 4</a></li>
-        </ul>
-    </nav>
-</header>
-<main>
-    <section>
-        <h2>
-                Encabezado nivel 2
-         </h2>
-            <p>
-                Aqui va texto del primer párrafo
-            </p>
-            <p>
-                Aqui va texto del segundo párrafo
-            </p>
-    </section>
-    <aside>
-            <H2>Apartado</H2>
-        <P>
-            Elije una opción
-        </P>
-        <form action=""> 
-           <label for=""> <input type="radio" name="opcion">Opción 1 <br> </label>
-             <input type="radio" id="football" name="opcion" value="football"/>Opción 2 <br>
-             <input type="radio" id="reading" name="opcion" value="reading"/>Opción 3 <br>
-             <input type="submit" value="Enviar">
-        </form>
-  </aside>
-</main>
-<footer>
-    <p>Sección de información de contacto, derechos de autor, etc.</p>
-</footer>
-</body>
-</html>
+           <!DOCTYPE html>
+     <html lang="en">
+     <head>
+         <meta charset="UTF-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>evaluacionhtml</title>
+     </head>
+     <body>
+     <header>
+     <h1>ENCABEZADO NIVEL 1</h1>
+         <nav>
+             <ul>
+                 <li><a href=""> ENLACE 1</a></li>
+                 <li><a href=""> ENLACE 2</a></li>
+                 <li><a href="">ENLACE 3</a></li>
+                 <li><a href="">ENLACE 4</a></li>
+             </ul>
+         </nav>
+     </header>
+     <main>
+         <section>
+             <h2>
+                     Encabezado nivel 2
+              </h2>
+                 <p>
+                     Aqui va texto del primer párrafo
+                 </p>
+                 <p>
+                     Aqui va texto del segundo párrafo
+                 </p>
+         </section>
+         <aside>
+                 <H2>Apartado</H2>
+             <P>
+                 Elije una opción
+             </P>
+             <form action=""> 
+                <label for=""> <input type="radio" name="opcion">Opción 1 <br> </label>
+                  <input type="radio" id="football" name="opcion" value="football"/>Opción 2 <br>
+                  <input type="radio" id="reading" name="opcion" value="reading"/>Opción 3 <br>
+                  <input type="submit" value="Enviar">
+             </form>
+       </aside>
+     </main>
+     <footer>
+         <p>Sección de información de contacto, derechos de autor, etc.</p>
+     </footer>
+     </body>
+     </html>
 
 
 
