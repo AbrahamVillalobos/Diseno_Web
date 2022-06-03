@@ -173,11 +173,68 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
           INGRESA AQUI EL CÓDIGO HTML
           
-          
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <meta http-equiv="X-UA-Compatible" content="IE=edge">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Evaluacion_final</title>
+
+              <link rel="stylesheet" href="css/stylesheet.css">
+          </head>
+          <body>  
+          <header>
+              <img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg" alt="">
+                  <div>
+                  <ul>
+                      <li>Residente</li>
+                      <li>Negocios</li>
+                      <li>Visitantes</li>
+                      <li>Gobierno</li>
+                  </ul>
+                  </div>
+          </header>
+
+          <main>
+              <img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg" alt="">
+              <p>
+                  APRENDE A PROGRAMAR EN LAS ESCUELAS DE CÓDIGO DE LA CDMX
+              </p>
+          </main>
+          <footer>
+              <P>
+                  ¿Quién se puede inscribir?
+                  Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles a la semana. <br>
+              </P>
+          </footer>
+          </body>
+          </html>
           
           
           INGRESA AQUI EL CSS
           
           
+          header{
+           display: flex;
+          }
+          div ul{
+              display: flex;
+              list-style: none;
+              color: rgb(13, 99, 35);
+              padding: 30px;
+              margin: 20px;
+          }
+          main p{
+              text-align: center;
+              color: rgb(194, 134, 62);
+          }
+
+          footer p{
+              text-align: center;
+              color: rgba(116, 116, 129, 0.774);
+          }
+
           
+     
  Ingresa el link a tu página del proyecto final
